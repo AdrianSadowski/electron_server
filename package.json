@@ -5,6 +5,10 @@
   "author": "Adrian Sadowski",
   "license": "MIT",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "express-handlebars": "3.1.0"
+  },
+  "scripts": {
+    "nodemon": "npx nodemon server.js"
   }
 }
